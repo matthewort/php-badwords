@@ -14,6 +14,7 @@
 
         <p>
         <?php 
+            echo($newText); 
             echo strlen($newText); 
         ?>
         </p>
