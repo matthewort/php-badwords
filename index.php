@@ -14,7 +14,7 @@
 
         <p>
         <?php 
-            echo strlen($newPar); 
+            echo strlen($newText); 
         ?>
         </p>
   </body>
